@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Professional Multi-Company ERP Management System",
+  "description": "Enterprise-grade multi-company ERP system with double-entry accounting, color-coded vouchers, real-time inventory, sales, purchases, customer and supplier ledgers, and automated business analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
